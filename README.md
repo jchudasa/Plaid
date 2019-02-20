@@ -19,7 +19,7 @@ A public_token is a short-lived (~30 minutes) token returned by Plaid when creat
 
 The INVALID_CREDENTIALS error is a rejection message from the financial institution indicating your credentials provided were incorrect. I would suggest checking your credentials for typos, and if you still face issues try the credentials against the financial institution website.
 
-I have also included some additional online support material related to common [Errors](https://github.com/plaid/support/blob/master/errors.md) and [Error Handling](https://support.plaid.com/hc/en-us/articles/360012859833-Handling-Plaid-Errors).
+I have also included some additional online support material for common [Errors](https://github.com/plaid/support/blob/master/errors.md) and [Error Handling](https://support.plaid.com/hc/en-us/articles/360012859833-Handling-Plaid-Errors).
 
 If you need any further assistance, please don’t hesitate to reach out.
 
